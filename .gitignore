@@ -1,0 +1,6 @@
+# ignore build folders
+build/
+# ignore .vscode folder
+.vscode/
+#ignore read.txt file
+read.txt

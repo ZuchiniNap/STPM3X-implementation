@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cstdint": "cpp",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "semaphore": "c",
+        "compare": "c"
+    }
+}
